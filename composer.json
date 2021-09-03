@@ -1,0 +1,12 @@
+{   "autoload": {
+        "psr-4": {
+            "Strategy\\": "Strategy/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+        "require": {
+                "nesbot/carbon": "^2.52"
+        }
+}
