@@ -33,6 +33,7 @@ class ComposerStaticInitcf9a40b8c256920470cacd73b0609ceb
             'Symfony\\Contracts\\Translation\\' => 30,
             'Symfony\\Component\\Translation\\' => 30,
             'Strategy\\' => 9,
+            'Singleton\\' => 10,
         ),
         'P' => 
         array (
@@ -47,6 +48,11 @@ class ComposerStaticInitcf9a40b8c256920470cacd73b0609ceb
         'C' => 
         array (
             'Carbon\\' => 7,
+        ),
+        'A' => 
+        array (
+            'Adapter\\' => 8,
+            'AbstractFactory\\' => 16,
         ),
     );
 
@@ -85,6 +91,10 @@ class ComposerStaticInitcf9a40b8c256920470cacd73b0609ceb
         array (
             0 => __DIR__ . '/../..' . '/Strategy',
         ),
+        'Singleton\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/Singleton',
+        ),
         'Prophecy\\' => 
         array (
             0 => __DIR__ . '/..' . '/phpspec/prophecy/src/Prophecy',
@@ -104,6 +114,14 @@ class ComposerStaticInitcf9a40b8c256920470cacd73b0609ceb
         'Carbon\\' => 
         array (
             0 => __DIR__ . '/..' . '/nesbot/carbon/src/Carbon',
+        ),
+        'Adapter\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/Adapter',
+        ),
+        'AbstractFactory\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/AbstractFactory',
         ),
     );
 

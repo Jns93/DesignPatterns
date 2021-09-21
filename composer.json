@@ -1,6 +1,9 @@
 {   "autoload": {
         "psr-4": {
-            "Strategy\\": "Strategy/"
+            "Strategy\\": "Strategy/",
+            "Adapter\\": "Adapter/",
+            "Singleton\\": "Singleton/",
+            "AbstractFactory\\": "AbstractFactory/"
         }
     },
     "require-dev": {
