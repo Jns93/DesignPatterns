@@ -17,6 +17,7 @@ return array(
     'Singleton\\' => array($baseDir . '/Singleton'),
     'Prophecy\\' => array($vendorDir . '/phpspec/prophecy/src/Prophecy'),
     'PhpParser\\' => array($vendorDir . '/nikic/php-parser/lib/PhpParser'),
+    'Facade\\' => array($baseDir . '/Facade'),
     'Doctrine\\Instantiator\\' => array($vendorDir . '/doctrine/instantiator/src/Doctrine/Instantiator'),
     'DeepCopy\\' => array($vendorDir . '/myclabs/deep-copy/src/DeepCopy'),
     'Carbon\\' => array($vendorDir . '/nesbot/carbon/src/Carbon'),

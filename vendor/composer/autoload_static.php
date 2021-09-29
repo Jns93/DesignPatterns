@@ -40,6 +40,10 @@ class ComposerStaticInitcf9a40b8c256920470cacd73b0609ceb
             'Prophecy\\' => 9,
             'PhpParser\\' => 10,
         ),
+        'F' => 
+        array (
+            'Facade\\' => 7,
+        ),
         'D' => 
         array (
             'Doctrine\\Instantiator\\' => 22,
@@ -102,6 +106,10 @@ class ComposerStaticInitcf9a40b8c256920470cacd73b0609ceb
         'PhpParser\\' => 
         array (
             0 => __DIR__ . '/..' . '/nikic/php-parser/lib/PhpParser',
+        ),
+        'Facade\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/Facade',
         ),
         'Doctrine\\Instantiator\\' => 
         array (

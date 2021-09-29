@@ -3,7 +3,8 @@
             "Strategy\\": "Strategy/",
             "Adapter\\": "Adapter/",
             "Singleton\\": "Singleton/",
-            "AbstractFactory\\": "AbstractFactory/"
+            "AbstractFactory\\": "AbstractFactory/",
+            "Facade\\": "Facade/"
         }
     },
     "require-dev": {
